@@ -7,6 +7,13 @@ data
 *.jpg
 *.jpeg
 *.txt
+*.yaml
+*.pt
+*.cache
+*.mp4
+*.json
+
+runs
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
