@@ -3,6 +3,9 @@
 
 # Data
 data
+*.png
+*.jpg
+*.jpeg
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
